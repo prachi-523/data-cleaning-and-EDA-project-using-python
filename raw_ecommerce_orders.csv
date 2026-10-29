@@ -1,0 +1,226 @@
+Order ID,Customer Name,Order Date,Product Name,Category,Quantity,Unit Price,City,Payment Method,Order Status,Customer Rating,Discount
+ORD-1000,Isha Kulkarni,not available,Wireless Mouse,Electronics,1,2278.56,Delhi,UPI,Shipped,2,0.26
+ORD-1001,Kabir Singh,29-07-2025,Wireless Mouse,Electronics,1,606.76,Bengaluru,Credit Card,Delivered,1,0.29
+ORD-1002,Kabir Singh,17-08-2025,Jeans,Clothing,4,3962.41,Hyderabad,Credit Card,Shipped,,0.04
+ORD-1003,Meera Patil,16-05-2025,Gym Bag,Sports,5,1948.37,Bengaluru,Cash on Delivery,Delivered,2,0.28
+ORD-1004,Rohan Desai,13-07-2025,Shampoo,Beauty,4,4140.39,Mumbai,UPI,Cancelled,1,0.13
+ORD-1005,Aarav Shah,10-03-2025,USB Hub,Electronics,,2839.74,Delhi,Cash on Delivery,Cancelled,1,0.02
+ORD-1006,Anaya Joshi,06-09-2025,Face Wash,Beauty,5,3213.57,Pune,Cash on Delivery,Cancelled,5,0.23
+ORD-1007,Aarav Shah,17-04-2025,T-Shirt,Clothing,4,4857.89,Chennai,UPI,Cancelled,1,0.27
+ORD-1008,Anaya Joshi,22-08-2025,T-Shirt,Clothing,4,1094,Delhi,Debit Card,CANCELLED,2,0.14
+ORD-1009,Meera Patil,14-01-2025,Mixer,Home & Kitchen,3,898.3,Chennai,Cash on Delivery,Delivered,5,0.2
+ORD-1010,Meera Patil,11-02-2025,Jeans,Clothing,5,4842.42,Bengaluru,Debit Card,Cancelled,,0.1
+ORD-1011,Isha Kulkarni,22-04-2025,Dumbbells,Sports,5,2427.35,Delhi,Credit Card,SHIPPED,1,0.06
+ORD-1012,Rohan Desai,08-02-2025,Bedsheet,Home & Kitchen,3,2457.17,Pune,UPI,Cancelled,2,0.07
+ORD-1013,Isha Kulkarni,not available,Sunscreen,Beauty,3,2270.19,Bengaluru,upi,Cancelled,2,0.25
+ORD-1014,Isha Kulkarni,30-07-2025,Jacket,Clothing,4,1664.98,,Debit Card,RETURNED,3,0.25
+ORD-1015,Kabir Singh,30-08-2025,Jeans,Clothing,3,2029.27,Bengaluru,Credit Card,Delivered,1,0.09
+ORD-1016,Isha Kulkarni,24-07-2025,Jeans,Clothing,2,827.8,Bengaluru,Credit Card,Returned,4,0.06
+ORD-1017,,03-01-2025,Gym Bag,Sports,5,3966.58,,Credit Card,Delivered,,0.2
+ORD-1018,Isha Kulkarni,31-07-2025,Skipping Rope,Sports,3,3936.54,Delhi,Credit Card,Cancelled,4,0.14
+ORD-1019,Aarav Shah,20-06-2025,Sneakers,Clothing,3,828.02,Chennai,Cash on Delivery,Shipped,5,0.03
+ORD-1020,Isha Kulkarni,20-07-2025,Keyboard,Electronics,3,2434.82,Hyderabad,UPI,Shipped,3,0.17
+ORD-1021,Kabir Singh,18-08-2025,T-Shirt,Clothing,1,3228.38,Delhi,Debit Card,DELIVERED,1,0.17
+ORD-1022,Meera Patil,17-06-2025,Mixer,Home & Kitchen,1,1624.16,,UPI,Delivered,1,0.01
+ORD-1023,,12-05-2025,Face Wash,Beauty,2,1190.74,Mumbai,UPI,Returned,5,0.12
+ORD-1024,Kabir Singh,14-09-2025,Jacket,Clothing,-2,1284.61,Hyderabad,Debit Card,Shipped,5,0.02
+ORD-1025,Anaya Joshi,26-03-2025,Jacket,Clothing,5,1573.93,Chennai,Cash on Delivery,Returned,5,0.2
+ORD-1026,Meera Patil,17-06-2025,Face Wash,Beauty,1,3951.91,Mumbai,Credit Card,Cancelled,1,0.2
+ORD-1027,Kabir Singh,02-05-2025,Dumbbells,Sports,3,4098,Mumbai,Credit Card,Delivered,,0.05
+ORD-1028,Aarav Shah,07-01-2025,Headphones,Electronics,2,586.73,,Cash on Delivery,Delivered,5,0.22
+ORD-1029,Isha Kulkarni,19-05-2025,Jacket,Clothing,4,932.17,Bengaluru,UPI,Shipped,,0.15
+ORD-1030,Meera Patil,15-02-2025,Gym Bag,Sports,5,3527.15,Bengaluru,Debit Card,Shipped,1,0.13
+ORD-1031,Rohan Desai,25-04-2025,USB Hub,Electronics,1,1612.33,Bengaluru,Debit Card,Returned,,0.19
+ORD-1032,Aarav Shah,19-04-2025,Wireless Mouse,Electronics,4,575.1,Bengaluru,Cash on Delivery,Delivered,2,0.04
+ORD-1033,Kabir Singh,16-10-2025,Jeans,Clothing,2,4556.62,Bengaluru,UPI,Returned,2,0.21
+ORD-1034,Meera Patil,21-03-2025,Bedsheet,Home & Kitchen,3,4850.51,Pune,Debit Card,Delivered,1,0.23
+ORD-1035,Aarav Shah,04-08-2025,Yoga Mat,Sports,2,2329.4,Mumbai,UPI,Returned,4,0.08
+ORD-1036,Anaya Joshi,29-01-2025,Moisturizer,Beauty,1,4527.62,Pune,UPI,Returned,1,0.14
+ORD-1037,Anaya Joshi,02-03-2025,Shampoo,beauty,4,1633.89,Delhi,Debit Card,Returned,2,0.17
+ORD-1038,Meera Patil,23-02-2025,Jacket,Clothing,3,4304.58,Pune,Credit Card,Cancelled,1,0.23
+ORD-1039,,04-08-2025,USB Hub,Electronics,3,2245.65,Hyderabad,UPI,Delivered,5,0.19
+ORD-1040,Aarav Shah,25-06-2025,Headphones,electronics,1,3301.76,Hyderabad,Credit Card,Shipped,4,0.03
+ORD-1041,Kabir Singh,05-05-2025,Headphones,Electronics,4,351.83,Hyderabad,Credit Card,Delivered,4,0.15
+ORD-1042,Rohan Desai,09-04-2025,Skipping Rope,Sports,1,850.94,Mumbai,Cash on Delivery,Shipped,3,0.03
+ORD-1043,Isha Kulkarni,26-06-2025,Moisturizer,Beauty,1,977.38,Chennai,Cash on Delivery,Returned,3,0.28
+ORD-1044,Anaya Joshi,24-06-2025,Wireless Mouse,Electronics,5,1832.32,Hyderabad,Credit Card,Delivered,5,0.18
+ORD-1045,Meera Patil,07-01-2025,Jacket,Clothing,2,4799.01,Delhi,credit card,Shipped,3,0.14
+ORD-1046,Anaya Joshi,23-08-2025,Storage Box,Home & Kitchen,,551.24,,Cash on Delivery,Delivered,,0.15
+ORD-1047,Isha Kulkarni,28-05-2025,Skipping Rope,Sports,4,4698.46,Pune,UPI,Cancelled,1,0.17
+ORD-1048,Rohan Desai,23-05-2025,Headphones,Electronics,3,1444.83,Delhi,UPI,Cancelled,2,0.1
+ORD-1049,Rohan Desai,06-06-2025,Bedsheet,Home & Kitchen,3,2278.72,Pune,Credit Card,Returned,3,0.01
+ORD-1050,Rohan Desai,05-09-2025,Wireless Mouse,Electronics,2,4496.38,Mumbai,Cash on Delivery,Shipped,,1.3826023
+ORD-1051,Kabir Singh,16-06-2025,Sunscreen,Beauty,2,676.59,Pune,Credit Card,Delivered,,0.2
+ORD-1052,Rohan Desai,26-03-2025,T-Shirt,Clothing,1,3348.2,Hyderabad,UPI,Returned,2,0.22
+ORD-1053,Rohan Desai,27-01-2025,Keyboard,electronics,5,672.54,Pune,Cash on Delivery,SHIPPED,,0.27
+ORD-1054,Rohan Desai,not available,T-Shirt,Clothing,5,331.45,Hyderabad,Debit Card,Shipped,2,0.17
+ORD-1055,Anaya Joshi,22-04-2025,Jeans,Clothing,3,4174.48,Pune,UPI,Cancelled,4,0.24
+ORD-1056,,06-04-2025,Jacket,Clothing,5,4771.56,Chennai,Credit Card,Returned,1,1.746606686
+ORD-1057,Meera Patil,04-06-2025,Moisturizer,beauty,4,1391.43,Bengaluru,Cash on Delivery,Cancelled,2,0.28
+ORD-1058,Isha Kulkarni,19-02-2025,T-Shirt,Clothing,1,367.82,Mumbai,Debit Card,Cancelled,3,0.13
+ORD-1059,Rohan Desai,25-10-2025,Keyboard,Electronics,5,4474.63,Chennai,Debit Card,Cancelled,1,0.22
+ORD-1060,Meera Patil,not available,Keyboard,Electronics,5,4483.22,Hyderabad,Cash on Delivery,Delivered,1,0.16
+ORD-1061,Rohan Desai,05-04-2025,Gym Bag,Sports,3,3894.26,Chennai,Cash on Delivery,Returned,5,0.2
+ORD-1062,Anaya Joshi,23-04-2025,Yoga Mat,Sports,-1,,Hyderabad,UPI,CANCELLED,1,0.22
+ORD-1063,Kabir Singh,20-03-2025,Face Wash,Beauty,2,4693.54,Hyderabad,UPI,Cancelled,4,0.07
+ORD-1064,Kabir Singh,06-02-2025,Keyboard,Electronics,1,4180.9,Delhi,Credit Card,Cancelled,5,0.05
+ORD-1065,Rohan Desai,23-02-2025,Bedsheet,Home & Kitchen,,3057.01,Bengaluru,Cash on Delivery,Shipped,2,0.26
+ORD-1066,Isha Kulkarni,28-02-2025,Sunscreen,Beauty,1,1655.07,Chennai,UPI,Cancelled,4,0.23
+ORD-1067,Rohan Desai,19-10-2025,Yoga Mat,Sports,2,2578.59,Delhi,UPI,Returned,5,0.04
+ORD-1068,Anaya Joshi,05-01-2025,Skipping Rope,Sports,5,1263.83,Bengaluru,Debit Card,Shipped,5,0.04
+ORD-1069,Isha Kulkarni,23-07-2025,Moisturizer,Beauty,1,740.89,Pune,Cash on Delivery,Cancelled,1,0.15
+ORD-1070,Meera Patil,07-10-2025,Jacket,clothing,5,2968.42,Mumbai,UPI,Delivered,1,1.58389072
+ORD-1071,Kabir Singh,30-08-2025,Sneakers,Clothing,5,3619.72,Pune,Debit Card,Returned,,0.22
+ORD-1072,Isha Kulkarni,09-02-2025,Dumbbells,Sports,5,55369,Chennai,Debit Card,Returned,4,0.28
+ORD-1073,,30-04-2025,Jeans,Clothing,1,1609.6,,Credit Card,Delivered,4,0.15
+ORD-1074,Isha Kulkarni,18-07-2025,Jeans,Clothing,3,4784.77,Hyderabad,Debit Card,Delivered,5,0.09
+ORD-1075,Anaya Joshi,05-10-2025,T-Shirt,Clothing,5,,Mumbai,Debit Card,Cancelled,4,0.17
+ORD-1076,Kabir Singh,10-07-2025,Gym Bag,Sports,1,663.6,Bengaluru,UPI,Returned,4,0.04
+ORD-1077,Isha Kulkarni,06-05-2025,Storage Box,Home & Kitchen,4,4836.22,,Debit Card,Shipped,3,0.18
+ORD-1078,Isha Kulkarni,07-10-2025,Face Wash,Beauty,1,4051.15,Delhi,UPI,Cancelled,3,0.14
+ORD-1079,Meera Patil,24-08-2025,Water Bottle,Home & Kitchen,4,236.51,,UPI,Returned,,0.03
+ORD-1080,Aarav Shah,06-09-2025,Jeans,Clothing,2,4014.56,Bengaluru,Debit Card,Cancelled,5,0.07
+ORD-1081,Aarav Shah,09-06-2025,Sunscreen,Beauty,2,3089.18,Mumbai,debit card,Returned,5,0.26
+ORD-1082,Anaya Joshi,30-06-2025,USB Hub,Electronics,4,2150.97,,Cash on Delivery,Cancelled,4,0.11
+ORD-1083,Anaya Joshi,08-05-2025,Moisturizer,Beauty,5,3311.87,Mumbai,Cash on Delivery,Returned,4,0.26
+ORD-1084,Rohan Desai,17-05-2025,USB Hub,Electronics,2,1352.02,Chennai,Debit Card,Shipped,4,0.07
+ORD-1085,Anaya Joshi,12-08-2025,T-Shirt,Clothing,5,4110.36,Hyderabad,Credit Card,Delivered,,0.03
+ORD-1086,Anaya Joshi,20-01-2025,Moisturizer,Beauty,5,3033,Mumbai,Credit Card,Cancelled,4,0.04
+ORD-1087,Anaya Joshi,05-09-2025,Storage Box,Home & Kitchen,1,1655.12,Delhi,Cash on Delivery,Returned,3,0.04
+ORD-1088,Aarav Shah,04-10-2025,Shampoo,Beauty,5,952.83,Bengaluru,Credit Card,Delivered,3,0.09
+ORD-1089,Isha Kulkarni,16-02-2025,T-Shirt,Clothing,3,59432,Pune,Credit Card,Shipped,2,0.01
+ORD-1090,Meera Patil,17-01-2025,Headphones,Electronics,-1,997.01,Mumbai,Debit Card,Delivered,5,0.02
+ORD-1091,Isha Kulkarni,27-06-2025,Sneakers,Clothing,3,3451.47,Delhi,Cash on Delivery,Shipped,5,0.12
+ORD-1092,,06-04-2025,Yoga Mat,Sports,5,2596.95,Delhi,Credit Card,Delivered,3,0.26
+ORD-1093,Anaya Joshi,13-09-2025,Gym Bag,Sports,4,360.85,Chennai,UPI,Delivered,5,0.05
+ORD-1094,Isha Kulkarni,13-03-2025,T-Shirt,Clothing,5,79678,Delhi,Credit Card,Delivered,3,0.17
+ORD-1095,Isha Kulkarni,05-05-2025,Gym Bag,Sports,5,388.88,Delhi,Credit Card,Cancelled,1,0.11
+ORD-1096,,07-06-2025,Sunscreen,Beauty,5,643.11,Bengaluru,Cash on Delivery,Returned,,0.25
+ORD-1097,Meera Patil,16-01-2025,Sneakers,Clothing,1,4635.48,Chennai,cash on delivery,Returned,4,0.03
+ORD-1098,Rohan Desai,11-09-2025,Shampoo,Beauty,5,4527.87,Mumbai,Credit Card,Cancelled,4,0.29
+ORD-1099,Kabir Singh,29-08-2025,Sneakers,Clothing,2,3930.47,Hyderabad,Debit Card,Cancelled,1,0.19
+ORD-1100,Meera Patil,22-08-2025,Shampoo,Beauty,4,802.58,Bengaluru,UPI,CANCELLED,3,0.16
+ORD-1101,Kabir Singh,03-10-2025,Mixer,home & kitchen,2,4309.22,Chennai,Cash on Delivery,Delivered,5,0.14
+ORD-1102,Meera Patil,26-04-2025,T-Shirt,Clothing,4,3251.88,Chennai,Debit Card,Returned,5,0.08
+ORD-1103,Isha Kulkarni,11-02-2025,Sneakers,Clothing,1,2467.7,Chennai,Debit Card,Returned,1,0.13
+ORD-1104,Meera Patil,26-02-2025,Keyboard,Electronics,4,1932.43,,UPI,Cancelled,,0.11
+ORD-1105,Anaya Joshi,09-04-2025,Skipping Rope,Sports,4,1990.4,,Cash on Delivery,Returned,,0.21
+ORD-1106,Rohan Desai,31-03-2025,Skipping Rope,Sports,2,4751.96,Chennai,Debit Card,Cancelled,3,0.27
+ORD-1107,Aarav Shah,25-05-2025,Storage Box,Home & Kitchen,5,1742.55,Chennai,UPI,Cancelled,1,0.16
+ORD-1108,Meera Patil,02-09-2025,Dumbbells,Sports,5,,Mumbai,Debit Card,Cancelled,,0.24
+ORD-1109,Aarav Shah,09-06-2025,Skipping Rope,Sports,3,3219.65,Mumbai,Cash on Delivery,Shipped,3,0.09
+ORD-1110,Aarav Shah,09-08-2025,Jacket,Clothing,1,1131.66,Chennai,UPI,Cancelled,1,0.21
+ORD-1111,Isha Kulkarni,16-09-2025,Keyboard,Electronics,3,790.7,Mumbai,Debit Card,Delivered,1,0.18
+ORD-1112,Anaya Joshi,29-01-2025,Skipping Rope,Sports,4,3669.72,Bengaluru,Debit Card,Cancelled,2,0.03
+ORD-1113,,08-10-2025,Keyboard,Electronics,3,816.43,Pune,Credit Card,Returned,4,0.29
+ORD-1114,Meera Patil,29-08-2025,Wireless Mouse,Electronics,1,3029.36,Mumbai,Cash on Delivery,Delivered,2,0.23
+ORD-1115,Kabir Singh,27-08-2025,USB Hub,Electronics,5,4738.23,Hyderabad,UPI,Returned,4,0.08
+ORD-1116,,27-06-2025,Shampoo,Beauty,4,,Bengaluru,Cash on Delivery,Delivered,5,0.18
+ORD-1117,Isha Kulkarni,21-02-2025,Headphones,Electronics,1,2890.01,Mumbai,Cash on Delivery,Delivered,2,0.17
+ORD-1118,Kabir Singh,20-05-2025,Jeans,Clothing,3,2684.76,Pune,UPI,Delivered,4,0.23
+ORD-1119,Rohan Desai,28-08-2025,Sunscreen,Beauty,5,2536.94,Pune,UPI,Cancelled,,0.18
+ORD-1120,Aarav Shah,07-10-2025,Bedsheet,Home & Kitchen,1,730.71,Chennai,UPI,Cancelled,,0.04
+ORD-1121,Anaya Joshi,not available,Dumbbells,Sports,4,3340.64,Pune,UPI,Shipped,3,0.13
+ORD-1122,Aarav Shah,21-08-2025,T-Shirt,clothing,5,3405.47,Mumbai,Cash on Delivery,Cancelled,4,0.1
+ORD-1123,Isha Kulkarni,27-09-2025,USB Hub,electronics,4,3848.28,Delhi,Debit Card,Cancelled,5,0.08
+ORD-1124,Anaya Joshi,20-04-2025,Gym Bag,Sports,4,1675.03,Pune,Credit Card,RETURNED,,0.05
+ORD-1125,Aarav Shah,14-02-2025,Mixer,Home & Kitchen,5,4690.22,Pune,UPI,Delivered,,0.13
+ORD-1126,Meera Patil,25-04-2025,Water Bottle,Home & Kitchen,4,3688.98,Bengaluru,Debit Card,Cancelled,2,0.17
+ORD-1127,Isha Kulkarni,08-10-2025,Gym Bag,Sports,,3934.46,Bengaluru,Credit Card,Returned,3,0.14
+ORD-1128,Rohan Desai,not available,Shampoo,Beauty,1,4935.16,Chennai,Credit Card,Shipped,3,0.22
+ORD-1129,Rohan Desai,13-10-2025,Sunscreen,Beauty,5,724.62,Chennai,Debit Card,Delivered,4,0.26
+ORD-1130,Rohan Desai,11-07-2025,Keyboard,Electronics,5,741.32,Delhi,Credit Card,Returned,5,0.18
+ORD-1131,Anaya Joshi,25-07-2025,USB Hub,Electronics,1,209.67,Pune,UPI,Cancelled,5,0.14
+ORD-1132,Aarav Shah,05-09-2025,Sunscreen,Beauty,4,1582.49,Mumbai,Cash on Delivery,Shipped,3,0.14
+ORD-1133,Aarav Shah,13-05-2025,Sunscreen,Beauty,,1614.35,Pune,UPI,Shipped,3,0.28
+ORD-1134,Kabir Singh,23-08-2025,Yoga Mat,Sports,4,686.35,Bengaluru,Credit Card,Shipped,1,0.3
+ORD-1135,Isha Kulkarni,21-09-2025,Face Wash,Beauty,1,1526.96,Mumbai,Debit Card,Cancelled,5,0.25
+ORD-1136,Anaya Joshi,01-02-2025,Bedsheet,Home & Kitchen,1,4995.66,Bengaluru,UPI,Returned,5,0.2
+ORD-1137,Meera Patil,15-07-2025,Sneakers,Clothing,1,588.64,Hyderabad,UPI,Delivered,3,0.27
+ORD-1138,Kabir Singh,09-01-2025,Shampoo,Beauty,5,1318.02,Delhi,Credit Card,Cancelled,,0.04
+ORD-1139,Meera Patil,22-08-2025,Bedsheet,Home & Kitchen,5,1111.29,Bengaluru,Debit Card,Cancelled,3,0.27
+ORD-1140,Anaya Joshi,16-07-2025,Gym Bag,sports,2,325.39,Delhi,UPI,Shipped,5,0
+ORD-1141,Anaya Joshi,16-01-2025,Moisturizer,Beauty,,3088.74,Pune,Cash on Delivery,Returned,,0.24
+ORD-1142,Isha Kulkarni,13-03-2025,Sunscreen,beauty,5,4269.63,Chennai,UPI,Returned,1,0.02
+ORD-1143,,29-08-2025,Jacket,Clothing,4,4649.81,Bengaluru,Credit Card,Returned,1,0.23
+ORD-1144,Isha Kulkarni,29-07-2025,Sneakers,Clothing,5,4214.2,Mumbai,Credit Card,Returned,3,0.01
+ORD-1145,Isha Kulkarni,02-03-2025,Bedsheet,Home & Kitchen,3,755.88,Pune,Cash on Delivery,Returned,3,0.15
+ORD-1146,Kabir Singh,12-08-2025,Face Wash,Beauty,3,3205.56,Pune,UPI,Cancelled,2,0.26
+ORD-1147,Aarav Shah,16-02-2025,USB Hub,Electronics,3,3712.91,Chennai,Credit Card,Returned,2,0.06
+ORD-1148,Aarav Shah,23-03-2025,Water Bottle,Home & Kitchen,1,3593.04,Delhi,Credit Card,Cancelled,3,0.29
+ORD-1149,Meera Patil,03-07-2025,Bedsheet,Home & Kitchen,4,414.33,Mumbai,Debit Card,Shipped,2,0.18
+ORD-1150,Kabir Singh,13-01-2025,T-Shirt,Clothing,1,4438.11,Bengaluru,UPI,Returned,5,0.21
+ORD-1151,Anaya Joshi,21-02-2025,Jeans,Clothing,3,594.85,Chennai,cash on delivery,Returned,3,0.06
+ORD-1152,Rohan Desai,22-10-2025,USB Hub,Electronics,2,2374.02,Chennai,UPI,Delivered,4,0.24
+ORD-1153,Isha Kulkarni,10-07-2025,Mixer,Home & Kitchen,2,2926.2,Bengaluru,Cash on Delivery,Returned,3,0.04
+ORD-1154,Anaya Joshi,11-10-2025,Sneakers,Clothing,2,1611.51,Pune,UPI,Returned,5,0.17
+ORD-1155,,29-07-2025,Mixer,Home & Kitchen,3,3298.78,Delhi,Credit Card,RETURNED,3,0.28
+ORD-1156,Kabir Singh,14-02-2025,Wireless Mouse,Electronics,1,2615.51,Chennai,Debit Card,Cancelled,2,0.12
+ORD-1157,Meera Patil,23-05-2025,Skipping Rope,Sports,5,728.21,Chennai,UPI,Cancelled,,0.04
+ORD-1158,Isha Kulkarni,03-01-2025,T-Shirt,Clothing,,1627.82,Chennai,Credit Card,Cancelled,4,0.13
+ORD-1159,Isha Kulkarni,03-07-2025,Keyboard,Electronics,4,3227.95,Mumbai,Credit Card,Cancelled,3,0.12
+ORD-1160,Meera Patil,03-05-2025,Moisturizer,Beauty,1,,Mumbai,Cash on Delivery,Cancelled,2,0.18
+ORD-1161,Rohan Desai,06-04-2025,Bedsheet,Home & Kitchen,4,324.89,Chennai,Cash on Delivery,Delivered,4,0.13
+ORD-1162,Meera Patil,23-05-2025,Headphones,Electronics,3,1244.13,Chennai,Debit Card,Cancelled,1,0.17
+ORD-1163,Rohan Desai,19-06-2025,Face Wash,Beauty,2,3554.71,Hyderabad,Credit Card,Returned,3,0.19
+ORD-1164,Isha Kulkarni,15-07-2025,Bedsheet,Home & Kitchen,3,1683.64,Delhi,Credit Card,Shipped,4,0.24
+ORD-1165,Kabir Singh,14-06-2025,Keyboard,Electronics,2,2242.38,Mumbai,Credit Card,Returned,,0.19
+ORD-1166,Aarav Shah,19-04-2025,Bedsheet,Home & Kitchen,3,2636.79,Mumbai,credit card,Delivered,3,0.22
+ORD-1167,Aarav Shah,23-09-2025,Face Wash,Beauty,3,4617.13,Mumbai,UPI,Returned,4,0.15
+ORD-1168,Kabir Singh,06-06-2025,Bedsheet,Home & Kitchen,4,4029.37,Chennai,UPI,Returned,,0.09
+ORD-1169,Kabir Singh,09-09-2025,USB Hub,electronics,3,2546.59,Bengaluru,Cash on Delivery,Delivered,,0.03
+ORD-1170,Anaya Joshi,22-01-2025,Storage Box,Home & Kitchen,1,4233.67,Bengaluru,UPI,Cancelled,1,0.02
+ORD-1171,Aarav Shah,26-03-2025,Mixer,home & kitchen,1,1770.53,Bengaluru,Cash on Delivery,Shipped,1,0.05
+ORD-1172,Isha Kulkarni,05-04-2025,Face Wash,Beauty,4,3752.06,Mumbai,Credit Card,Delivered,3,0
+ORD-1173,Kabir Singh,not available,Jeans,Clothing,3,4304.26,Mumbai,Credit Card,Shipped,5,0.11
+ORD-1174,Rohan Desai,16-02-2025,Jeans,Clothing,4,3064.08,Mumbai,Credit Card,Cancelled,2,0.04
+ORD-1175,Meera Patil,20-04-2025,Jacket,Clothing,3,4798.38,Pune,Credit Card,Shipped,1,0.3
+ORD-1176,,20-08-2025,Storage Box,Home & Kitchen,3,1658.16,Delhi,Credit Card,Shipped,3,0.21
+ORD-1177,Isha Kulkarni,31-07-2025,Headphones,Electronics,1,2031.03,Bengaluru,Credit Card,Delivered,4,0.19
+ORD-1178,Kabir Singh,04-01-2025,Shampoo,Beauty,2,1163.93,Hyderabad,Credit Card,Returned,5,0.16
+ORD-1179,Isha Kulkarni,19-02-2025,T-Shirt,Clothing,3,954.65,Chennai,Cash on Delivery,Returned,,0.25
+ORD-1180,Anaya Joshi,24-10-2025,Wireless Mouse,Electronics,5,2846.45,Bengaluru,Debit Card,Delivered,4,0.25
+ORD-1181,,25-10-2025,Face Wash,Beauty,5,836.74,Delhi,UPI,Delivered,2,0.13
+ORD-1182,Anaya Joshi,28-04-2025,Mixer,Home & Kitchen,5,538.24,Hyderabad,Cash on Delivery,Returned,5,0.23
+ORD-1183,Aarav Shah,11-05-2025,Gym Bag,Sports,1,2426.24,Chennai,Credit Card,Shipped,4,0.05
+ORD-1184,,24-02-2025,Moisturizer,Beauty,2,4549.45,Delhi,Debit Card,Returned,4,0.01
+ORD-1185,Anaya Joshi,11-03-2025,Keyboard,Electronics,4,1566.49,Delhi,Cash on Delivery,Cancelled,2,0.15
+ORD-1186,Aarav Shah,25-06-2025,Face Wash,Beauty,5,2542.46,Pune,Credit Card,Returned,1,0.03
+ORD-1187,Kabir Singh,15-03-2025,Storage Box,Home & Kitchen,2,,Pune,Cash on Delivery,Delivered,4,0.19
+ORD-1188,Isha Kulkarni,14-07-2025,Bedsheet,Home & Kitchen,,3400.49,Pune,Cash on Delivery,Cancelled,3,0.23
+ORD-1189,Meera Patil,18-01-2025,Headphones,Electronics,-2,1928.05,Chennai,Debit Card,Shipped,1,0.16
+ORD-1190,Aarav Shah,12-04-2025,Mixer,Home & Kitchen,5,4245.72,Delhi,UPI,Returned,5,0.14
+ORD-1191,Kabir Singh,19-08-2025,Yoga Mat,Sports,3,4282.28,Chennai,Cash on Delivery,Delivered,2,0.15
+ORD-1192,Rohan Desai,30-09-2025,Mixer,home & kitchen,3,2997.55,Delhi,Credit Card,Shipped,2,0.26
+ORD-1193,Aarav Shah,13-04-2025,Gym Bag,Sports,2,2569.26,,credit card,Delivered,,0.16
+ORD-1194,Anaya Joshi,01-02-2025,Dumbbells,Sports,3,2082.98,Bengaluru,Debit Card,Cancelled,2,0.28
+ORD-1195,Isha Kulkarni,09-07-2025,Mixer,Home & Kitchen,4,1010.91,Delhi,Credit Card,Delivered,2,0.1
+ORD-1196,Isha Kulkarni,27-02-2025,T-Shirt,Clothing,2,270.39,Pune,Cash on Delivery,Returned,,0.28
+ORD-1197,Kabir Singh,15-05-2025,Sunscreen,Beauty,4,,Bengaluru,Debit Card,Cancelled,2,0.18
+ORD-1198,Rohan Desai,03-01-2025,Yoga Mat,Sports,3,1498.41,Bengaluru,Credit Card,Cancelled,,0.21
+ORD-1199,Kabir Singh,10-07-2025,Gym Bag,Sports,3,4911.76,Chennai,Cash on Delivery,Delivered,2,0.19
+ORD-1200,Aarav Shah,07-01-2025,Face Wash,Beauty,5,3842.95,Mumbai,Cash on Delivery,Shipped,2,0.27
+ORD-1201,Rohan Desai,05-08-2025,Mixer,Home & Kitchen,3,4821.57,Pune,Credit Card,Returned,,0.23
+ORD-1202,Meera Patil,18-09-2025,Moisturizer,Beauty,3,703.4,Bengaluru,UPI,Cancelled,1,0.22
+ORD-1203,Anaya Joshi,13-05-2025,Face Wash,Beauty,5,,Pune,Debit Card,Delivered,3,0.2
+ORD-1204,Kabir Singh,18-10-2025,Gym Bag,Sports,3,,Bengaluru,Debit Card,Cancelled,1,0.09
+ORD-1205,Rohan Desai,09-08-2025,Face Wash,beauty,5,3787.42,Mumbai,Debit Card,Cancelled,1,0.1
+ORD-1206,Meera Patil,07-02-2025,Face Wash,Beauty,1,348.59,Bengaluru,Debit Card,Delivered,4,0.23
+ORD-1207,Meera Patil,27-05-2025,Mixer,Home & Kitchen,5,4929.87,Delhi,UPI,Delivered,5,0.14
+ORD-1208,Rohan Desai,21-10-2025,Headphones,Electronics,2,2146.14,Delhi,UPI,Shipped,1,0.24
+ORD-1209,Meera Patil,26-01-2025,Jacket,Clothing,4,2843.99,Mumbai,UPI,Delivered,2,0.24
+ORD-1210,Kabir Singh,05-10-2025,Sunscreen,Beauty,2,4139.53,Hyderabad,Debit Card,Cancelled,,0.01
+ORD-1211,Anaya Joshi,22-04-2025,Storage Box,Home & Kitchen,1,386.19,Pune,Debit Card,Returned,,0.03
+ORD-1212,,22-07-2025,Mixer,Home & Kitchen,5,,Pune,Cash on Delivery,Delivered,3,0.23
+ORD-1213,Aarav Shah,17-09-2025,Sunscreen,Beauty,1,3736.24,Pune,Cash on Delivery,Cancelled,1,0.24
+ORD-1214,Anaya Joshi,15-01-2025,USB Hub,Electronics,2,1287.5,Hyderabad,credit card,Returned,5,0.19
+ORD-1215,Kabir Singh,15-09-2025,Jacket,Clothing,2,171.83,Bengaluru,UPI,DELIVERED,4,0.15
+ORD-1216,Isha Kulkarni,23-07-2025,Keyboard,Electronics,2,293.6,Pune,UPI,Delivered,2,0.12
+ORD-1217,Kabir Singh,26-09-2025,Sunscreen,Beauty,4,3407.32,Hyderabad,UPI,Cancelled,3,0.07
+ORD-1218,Anaya Joshi,13-09-2025,Bedsheet,Home & Kitchen,3,1837.95,Delhi,Credit Card,Cancelled,1,0.26
+ORD-1219,,31-03-2025,Water Bottle,Home & Kitchen,5,3013.05,Chennai,Debit Card,Cancelled,3,0.12
+ORD-1005,Aarav Shah,10-03-2025,USB Hub,Electronics,,2839.74,Delhi,Cash on Delivery,Cancelled,1,0.02
+ORD-1019,Aarav Shah,20-06-2025,Sneakers,Clothing,3,828.02,Chennai,Cash on Delivery,Shipped,5,0.03
+ORD-1044,Anaya Joshi,24-06-2025,Wireless Mouse,Electronics,5,1832.32,Hyderabad,Credit Card,Delivered,5,0.18
+ORD-1071,Kabir Singh,30-08-2025,Sneakers,Clothing,5,3619.72,Pune,Debit Card,Returned,,0.22
+ORD-1100,Meera Patil,22-08-2025,Shampoo,Beauty,4,802.58,Bengaluru,UPI,CANCELLED,3,0.16
